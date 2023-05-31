@@ -1,0 +1,356 @@
+{
+      "git_repo": "/hlabhome/shlabhome/wg-mjames/git/spk_intf_test/",
+      "json_sh_repo": "/hlabhome/wg-mjames/spk_intf_test/",
+      "clustering_files_repo": "/hlabhome/shlabhome/wg-mjames/",
+      "raw__loc(s)": [
+            "/media/bs007r/CAF00078/CAF00078_2021-04-02_13-05-25",
+            "/media/bs007r/CAF00078/CAF00078_2021-04-02_13-05-25",
+            "/media/bs007r/CAF00078/CAF00078_2021-04-02_13-05-25",
+            "/media/bs007r/CAF00078/CAF00078_2021-04-02_13-05-25",
+            "/media/bs007r/CAF00078/CAF00078_2021-04-02_13-05-25",
+            "/media/bs007r/CAF00078/CAF00078_2021-04-02_13-05-25",
+            "/media/bs007r/CAF00078/CAF00078_2021-04-02_13-05-25",
+            "/media/bs007r/CAF00078/CAF00078_2021-04-02_13-05-25",
+            "/media/bs007r/CAF00078/CAF00078_2021-04-02_13-05-25",
+            "/media/bs007r/CAF00078/CAF00078_2021-04-02_13-05-25",
+            "/media/bs007r/CAF00078/CAF00078_2021-04-02_13-05-25",
+            "/media/bs007r/CAF00078/CAF00078_2021-04-02_13-05-25",
+            "/media/bs007r/CAF00078/CAF00078_2021-04-02_13-05-25",
+            "/media/bs007r/CAF00078/CAF00078_2021-04-02_13-05-25"
+      ],
+      "restart__date(s)": [
+            "CAF00078_LFP/caf78_04022021",
+            "CAF00078_LFP/caf78_04022021",
+            "CAF00078_LFP/caf78_04022021",
+            "CAF00078_LFP/caf78_04022021",
+            "CAF00078_LFP/caf78_04022021",
+            "CAF00078_LFP/caf78_04022021",
+            "CAF00078_LFP/caf78_04022021",
+            "CAF00078_LFP/caf78_04022021",
+            "CAF00078_LFP/caf78_04022021",
+            "CAF00078_LFP/caf78_04022021",
+            "CAF00078_LFP/caf78_04022021",
+            "CAF00078_LFP/caf78_04022021",
+            "CAF00078_LFP/caf78_04022021",
+            "CAF00078_LFP/caf78_04022021"
+      ],
+      "n__probes": [
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+      ],
+      "which_probe(s)_to_sort": [
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1"
+      ],
+      "bad__chans": [
+            [
+                  [
+                        -1
+                  ]
+            ],
+            [
+                  [
+                        -1
+                  ]
+            ],
+            [
+                  [
+                        -1
+                  ]
+            ],
+            [
+                  [
+                        -1
+                  ]
+            ],
+            [
+                  [
+                        -1
+                  ]
+            ],
+            [
+                  [
+                        -1
+                  ]
+            ],
+            [
+                  [
+                        -1
+                  ]
+            ],
+            [
+                  [
+                        -1
+                  ]
+            ],
+            [
+                  [
+                        -1
+                  ]
+            ],
+            [
+                  [
+                        -1
+                  ]
+            ],
+            [
+                  [
+                        -1
+                  ]
+            ],
+            [
+                  [
+                        -1
+                  ]
+            ],
+            [
+                  [
+                        -1
+                  ]
+            ],
+            [
+                  [
+                        -1
+                  ]
+            ]
+      ],
+      "clustering_interval(s)": [
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4,
+            4
+      ],
+      "which_hours(s)": [
+            "112_116",
+            "116_120",
+            "120_124",
+            "124_128",
+            "128_132",
+            "132_136",
+            "136_140",
+            "140_144",
+            "144_148",
+            "148_152",
+            "152_156",
+            "156_160",
+            "160_164",
+            "164_168"
+      ],
+      "output_directory": "/media/HlabShare/Sleep_Scoring/",
+      "headstagetype": [
+            "APT_PCB",
+            "APT_PCB",
+            "APT_PCB",
+            "APT_PCB",
+            "APT_PCB",
+            "APT_PCB",
+            "APT_PCB",
+            "APT_PCB",
+            "APT_PCB",
+            "APT_PCB",
+            "APT_PCB",
+            "APT_PCB",
+            "APT_PCB",
+            "APT_PCB"
+      ],
+      "l__metrics": "0",
+      "raw__datfilt": "Average",
+      "number_gpus": "3",
+      "number_cpus": "4",
+      "lfp_chans": [
+            [
+                  [
+                        21,
+                        22,
+                        26,
+                        28,
+                        30
+                  ]
+            ],
+            [
+                  [
+                        21,
+                        22,
+                        26,
+                        28,
+                        30
+                  ]
+            ],
+            [
+                  [
+                        21,
+                        22,
+                        26,
+                        28,
+                        30
+                  ]
+            ],
+            [
+                  [
+                        21,
+                        22,
+                        26,
+                        28,
+                        30
+                  ]
+            ],
+            [
+                  [
+                        21,
+                        22,
+                        26,
+                        28,
+                        30
+                  ]
+            ],
+            [
+                  [
+                        21,
+                        22,
+                        26,
+                        28,
+                        30
+                  ]
+            ],
+            [
+                  [
+                        21,
+                        22,
+                        26,
+                        28,
+                        30
+                  ]
+            ],
+            [
+                  [
+                        21,
+                        22,
+                        26,
+                        28,
+                        30
+                  ]
+            ],
+            [
+                  [
+                        21,
+                        22,
+                        26,
+                        28,
+                        30
+                  ]
+            ],
+            [
+                  [
+                        21,
+                        22,
+                        26,
+                        28,
+                        30
+                  ]
+            ],
+            [
+                  [
+                        21,
+                        22,
+                        26,
+                        28,
+                        30
+                  ]
+            ],
+            [
+                  [
+                        21,
+                        22,
+                        26,
+                        28,
+                        30
+                  ]
+            ],
+            [
+                  [
+                        21,
+                        22,
+                        26,
+                        28,
+                        30
+                  ]
+            ],
+            [
+                  [
+                        21,
+                        22,
+                        26,
+                        28,
+                        30
+                  ]
+            ]
+      ],
+      "wall_time": "12:00:00",
+      "thresh": "4",
+      "number_channels": [
+            64,
+            64,
+            64,
+            64,
+            64,
+            64,
+            64,
+            64,
+            64,
+            64,
+            64,
+            64,
+            64,
+            64
+      ],
+      "detect_sign": "0",
+      "adjacency_radius": "25",
+      "clip_size": "65",
+      "detect_interval": "8",
+      "curation": "0",
+      "noise_overlap_threshold": "0.45",
+      "probe_file": "4by4tetrodes_1000.prb",
+      "username": "wg-mjames",
+      "password": "N3tw0rks#!",
+      "server": "tyromancer.wustl.edu",
+      "artifact_min": "-1500",
+      "artifact_max": "1000",
+      "freq_min": 350,
+      "freq_max": 7500,
+      "tnode": "1",
+      "model_file": "/media/HlabShare/models/xgboost_autoqual_prob"
+}
